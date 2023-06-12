@@ -1,0 +1,13 @@
+name: Images_search_Task
+title: Images_search_Task
+username:
+account: ganeshyadav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9262321
+bundleId: 7314837
+url: https://ganeshyadav.shinyapps.io/Images_search_Task/
+when: 1686120454.3194
+lastSyncTime: 1686120454.31942
+asMultiple: FALSE
+asStatic: FALSE
